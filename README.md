@@ -1,5 +1,5 @@
 ```
-npm install && npm run
+npm install && npm start
 ```
 
-`npm run` is unwrapped to `./node_modules/.bin/tsc -p .`
+`npm start` is unwrapped to `./node_modules/.bin/tsc -p .`
